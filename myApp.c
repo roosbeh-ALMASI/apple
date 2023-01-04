@@ -11,9 +11,9 @@ int main(){
    for(i=0; i<20; i++)
     {
 #ifdef USE_SYSCALL
-       printf("Round %d: this is AAAAA application..!\r\n", i);
+       printf("Round %d: this is AAAAA roosbeh Github application..!\r\n", i);
 #else
-       printf("Round %d: this is BBBBB application..!\r\n", i);
+       printf("Round %d: this is BBBBB roosbeh Github application..!\r\n", i);
 #endif
     }
 
